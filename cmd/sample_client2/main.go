@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/aerialpartners/study-cryptocurrency/p2p"
+	"github.com/egapool/simplebitcoin-go/p2p"
 )
 
 func main() {

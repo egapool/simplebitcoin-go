@@ -1,8 +1,6 @@
-module github.com/aerialpartners/study-cryptocurrency
+module github.com/egapool/simplebitcoin-go
 
 go 1.12
-
-replace local.packages/cc => ./
 
 require (
 	github.com/mattn/go-runewidth v0.0.9 // indirect
@@ -20,5 +18,4 @@ require (
 	golang.org/x/tools v0.0.0-20200527142759-c0791ff00ba4 // indirect
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
-	local.packages/cc v0.0.0-00010101000000-000000000000 // indirect
 )

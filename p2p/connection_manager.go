@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/aerialpartners/study-cryptocurrency/libs"
+	"github.com/egapool/simplebitcoin-go/libs"
 )
 
 // ConnectionManager は Coreどうしの接続を管理する

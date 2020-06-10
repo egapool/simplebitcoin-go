@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/aerialpartners/study-cryptocurrency/libs"
+	"github.com/egapool/simplebitcoin-go/libs"
 )
 
 type ConnectionManager4Edge struct {
